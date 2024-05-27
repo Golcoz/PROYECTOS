@@ -29,4 +29,13 @@ Para instalar Git en un sistema Ubuntu, sigue estos pasos:
      ![Texto alternativo](6.png)
     - **Agregar el archivo al repositorio**
       ![Texto alternativo](7.png)
+
+
+## Flujo de Trabajo 
+- **Abrir el index.html y poner un parrafo**
+   ![Texto alternativo](8.png)
+   ![Texto alternativo](9.png)
+- **Guardar los cambios y verificar el estado del repositorio**
+       ![Texto alternativo](10.png)
+
     
